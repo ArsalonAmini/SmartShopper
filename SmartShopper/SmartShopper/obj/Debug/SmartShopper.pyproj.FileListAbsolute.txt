@@ -1,0 +1,13 @@
+C:\Users\USER\Documents\GitHub\SmartShopper\SmartShopper\SmartShopper\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\USER\Documents\GitHub\SmartShopper\SmartShopper\SmartShopper\obj\Debug\attach_server.py
+C:\Users\USER\Documents\GitHub\SmartShopper\SmartShopper\SmartShopper\obj\Debug\visualstudio_py_debugger.py
+C:\Users\USER\Documents\GitHub\SmartShopper\SmartShopper\SmartShopper\obj\Debug\visualstudio_py_repl.py
+C:\Users\USER\Documents\GitHub\SmartShopper\SmartShopper\SmartShopper\obj\Debug\visualstudio_py_util.py
+C:\Users\USER\Documents\GitHub\SmartShopper\SmartShopper\SmartShopper\obj\Debug\__init__.py
+C:\Users\USER\Documents\GitHub\SmartShopper\SmartShopper\SmartShopper\obj\Debug\__main__.py
+C:\Users\USER\Documents\GitHub\SmartShopper\SmartShopper\SmartShopper\bin\AzureSetup.cfg
+C:\Users\USER\Documents\GitHub\SmartShopper\SmartShopper\SmartShopper\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\USER\Documents\GitHub\SmartShopper\SmartShopper\SmartShopper\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\USER\Documents\GitHub\SmartShopper\SmartShopper\SmartShopper\bin\wfastcgi.py
+C:\Users\USER\Documents\GitHub\SmartShopper\SmartShopper\SmartShopper\obj\Debug\web.config
+C:\Users\USER\Documents\GitHub\SmartShopper\SmartShopper\SmartShopper\obj\Debug\web.debug.config
